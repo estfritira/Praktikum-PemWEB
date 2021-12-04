@@ -1,2 +1,2 @@
-# Praktikum-PemWEB
-Tugas Praktikum Mata Kuliah Pemrograman WEB
+# Pemrograman-Web
+Tugas Praktikum mata kuliah pemrograman web
